@@ -1,4 +1,4 @@
-# jquery-jtyper
+# jTyper
 
 This is a jQuery plugin for typing links
 
