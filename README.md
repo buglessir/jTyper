@@ -1,21 +1,21 @@
-# jTyper
+## jTyper
 
 This is a jQuery plugin for typing links
 
 
-# How to use ?
+### How to use ?
 
 Just select a simple ul/li and call jTyper
 
 
-# For example :
+### For example :
 
 ``` javascripts
 $('ul').jTyper();
 ```
 
 
-# Options
+### Options
 
 speed ( Typing Speed / Default = 100 )
 
