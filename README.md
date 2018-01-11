@@ -1,16 +1,19 @@
-# jquery-typer
+# jquery-jtyper
 
 This is a jQuery plugin for typing links
+
 
 # How to use ?
 
 Just select a simple ul/li and call jTyper
 
+
 # For example :
 
-``` jQuery
+``` javascripts
 $('ul').jTyper();
 ```
+
 
 # Options
 
