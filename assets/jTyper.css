@@ -1,0 +1,15 @@
+/*
+    Plugin : jTyper
+    Copyright (C) 2018 - Mohammad Esmaeilzadeh
+    Author URL: http://www.bugless.ir/
+    Author Email: bugless.ir@yahoo.com
+    This is a jQuery plugin for typing links
+*/
+
+.jTyper{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Your custom CSS here ... */
